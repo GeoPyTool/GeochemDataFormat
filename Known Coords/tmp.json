@@ -1,5 +1,5 @@
 {
-	"comment": "This is a sample JSON file for Cords of GeoChem Plots. ",
+	"comment": "This is a sample JSON file for coords of GeoChem Plots. ",
 	"date": "2020-10-9",
 	"version": "0.01",
 	"author": "fred yu",
@@ -7,7 +7,7 @@
 	"type": "xyz",
 	"reference": "Barker1979",
   
-	"cords": {
+	"coords": {
 		"Line1":[
 		  [90,10,0],
 		  [53.5,28.5,18],
