@@ -1,0 +1,50 @@
+{
+	"comment": "This is a sample JSON file for coords of GeoChem Plots. ",
+	"date": "2021-1-31",
+	"version": "0.02",
+	"author": "fred yu",
+	"title": "AbAnOr",
+	"type": "xyz",
+	"axis":["Ab","An","Or"],
+	"reference": "Barker1979",
+  
+	"lines_coords": {
+		"Line1":[
+		  [70,30,0],
+		  [60,20,20],
+		  [40,0,60]
+		],
+		"line2":[
+		  [0,80,20],
+		  [60,20,20]
+		],
+		"line3":[
+		  [75,25,0],
+		  [0,0,100]
+		],
+		"line4":[
+		  [0,65,35],
+		  [65,0,35]
+		],
+		"line5":[
+		  [0,70,30],
+		  [70,0,30],
+		  [0,100,0]
+		]
+	},
+	"labels": {
+		"Trondhjemite" : "Trondhjemite",
+		"Tonalite": "Tonalite",
+		"Granodiorite": "Granodiorite",
+		"Granite": "Granite"
+	  },
+	
+	"labels_coords": {
+		"Trondhjemite" :  [80,10,10] ,
+		"Tonalite": [45,10,45] ,
+		"Granodiorite": [35,10,35] ,
+		"Granite": [20,40,30] 
+	}
+}
+
+  

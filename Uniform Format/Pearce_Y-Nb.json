@@ -1,0 +1,45 @@
+{
+  "comment": "This is a sample JSON file for coords of GeoChem Plots. ",
+  "date": "2020-1-31",
+  "version": "0.02",
+  "author": "fred yu",
+  "title": "Pearce Diagram Y-Nb",
+  "type": "xy",
+	"axis":["Y","Nb"],
+  "reference": " Reference: Pearce, J. A., Harris, N. B. W., and Tindle, A. G., 1984, Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks: Journal of Petrology, v. 25, no. 4, p. 956-983.  ",
+
+  "lines_coords": {
+    "line1": [ 
+        [1, 2000],
+        [50, 10]
+      ],
+    "line2":[ 
+        [40, 1],
+        [50, 10]
+      ],
+    "line3":[
+        [50, 10],
+        [1000, 100]
+      ],
+    "line4":[ 
+        [25, 25],
+        [1000, 400]
+      ]
+  },
+
+  "labels": {
+    "syn-COLG" : "syn-COLG",
+    "VAG":"VAG",
+    "WPG":"WPG",
+    "ORG":"ORG"
+  },
+
+  "labels_coords": {
+    "syn-COLG" : [0.5, 1.5],
+    "VAG": [0.5, 2],
+    "WPG": [2, 2],
+    "ORG": [2.2, 0.5]
+  }
+    
+  
+}
