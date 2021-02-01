@@ -24,6 +24,12 @@
 
   "labels_coords": {
     "F":  [40, 12] 
-  }
-
+  },
+	"lines_type": {
+		"F": "solid",
+		"N": "dashed",
+	},
+	"polygons": {
+	"F": [[0,0,0],[0,1,0]]
+	}
 }

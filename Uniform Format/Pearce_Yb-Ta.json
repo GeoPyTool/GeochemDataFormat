@@ -43,7 +43,14 @@
     "VAG": [-0.5, -1],
     "WPG": [0.7, 1],
     "ORG": [1.5, 0]
-  }
+  },
+	"lines_type": {
+		"line1":"solid",
+		"line2":"solid",
+		"line3":"solid",
+		"line4":"solid",
+		"line5":"solid"
+	}
     
   
 }

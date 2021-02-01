@@ -37,13 +37,20 @@
 		"Tonalite": "Tonalite",
 		"Granodiorite": "Granodiorite",
 		"Granite": "Granite"
-	  },
+	},
 	
 	"labels_coords": {
 		"Trondhjemite" :  [80,10,10] ,
 		"Tonalite": [45,10,45] ,
 		"Granodiorite": [35,10,35] ,
 		"Granite": [20,40,30] 
+	},
+	"lines_type": {
+		"line1":"solid",
+		"line2":"solid",
+		"line3":"solid",
+		"line4":"solid",
+		"line5":"solid"
 	}
 }
 
