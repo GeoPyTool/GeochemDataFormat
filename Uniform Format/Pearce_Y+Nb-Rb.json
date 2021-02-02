@@ -8,7 +8,7 @@
 	"axis":["Y+Nb","Rb"],
   "reference": " Reference: Pearce, J. A., Harris, N. B. W., and Tindle, A. G., 1984, Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks: Journal of Petrology, v. 25, no. 4, p. 956-983.  ",
 
-  "lines_coords": {
+  "line_coords": {
     "line1": [ 
         [2, 80],
         [55, 300]
@@ -38,7 +38,7 @@
     "WPG": [2.4, 2.4],
     "ORG": [3, 1]
   },
-	"lines_type": {
+	"line_type": {
 		"line1":"solid",
 		"line2":"solid",
 		"line3":"solid",

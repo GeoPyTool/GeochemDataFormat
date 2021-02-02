@@ -10,7 +10,7 @@
 	"notice":"coords below is Ti/100, Zr, Y*3, not original Ti,Zr,Y. ", 
 
   
-	"lines_coords": {
+	"line_coords": {
 		"D":[
 		  [24,55.5,20.5],
 		  [28,59,13],
@@ -48,7 +48,7 @@
 		"B": [33,33,34] ,
 		"A": [20,40,40] 
 	},
-	"lines_type": {
+	"line_type": {
 		"D":"solid",
 		"C":"solid",
 		"B":"solid",

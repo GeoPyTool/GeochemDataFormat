@@ -8,7 +8,7 @@
 	"axis":["A(K2O+Na2O)","F(FeOT)","M(MgO)"],
 	"reference": "Maitre, R. W. L., Streckeisen, A., Zanettin, B., Bas, M. J. L., Bonin, B., and Bateman, P., 2004, Igneous Rocks: A Classification and Glossary of Terms: Cambridge University Press, v. -1, no. 70, p. 93–120.",
   
-	"lines_coords": {
+	"line_coords": {
 	  "line": [
 		[11, 39, 50],
 		[14, 50, 36],
@@ -28,7 +28,7 @@
 		"an" : [35,35,30],
 		"ba" : [20,40,40]
 	},
-	"lines_type": {
+	"line_type": {
 		"line":"solid"
 	},
 	"labels": {
