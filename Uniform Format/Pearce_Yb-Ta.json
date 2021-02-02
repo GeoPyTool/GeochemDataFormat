@@ -1,7 +1,7 @@
 {
   "comment": "This is a sample JSON file for coords of GeoChem Plots. ",
-  "date": "2020-31",
-  "version": "0.02",
+  "date": "2020-2-2",
+  "version": "0.03",
   "author": "fred yu",
   "title": "Pearce Diagram Yb-Ta",
   "type": "xy",
@@ -31,12 +31,6 @@
       ]
   },
 
-  "labels": {
-    "syn-COLG" : "syn-COLG",
-    "VAG":"VAG",
-    "WPG":"WPG",
-    "ORG":"ORG"
-  },
 
   "labels_coords": {
     "syn-COLG" : [-0.5, 0.1],
@@ -57,5 +51,17 @@
     "VAG": [[0.1, 0.35], [3, 2],[5,1],[5,0.05],[0.1,0.05],[0.1, 0.35]],
     "WPG2": [[100,20],[3, 2], [5, 1],[100,7],[100,20]],
     "ORG":[[5, 0.05], [5, 1],[100,7],[100,0.05],[5, 0.05]]
-  }
+  },
+  "labels": {
+    "syn-COLG" : "syn-COLG",
+    "VAG":"VAG",
+    "WPG":"WPG",
+    "ORG":"ORG"
+  },
+	"angle": {
+		"WPG" : 0,
+		"ORG" : 0,
+		"VAG" : 0,
+		"syn-COLG" : 0
+	}
 }

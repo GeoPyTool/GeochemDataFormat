@@ -19,14 +19,6 @@
 	  ]
 	},
   
-	"labels": {
-	  "TH" : "tholeiitic",
-	  "CA" : "calc-alkaline",
-	  "rh" : "rhyolite",
-	  "da" : "dacite",
-	  "an" : "andesite",
-	  "ba" : "basalt"
-	},
   
 	"labels_coords": {
 		"TH" : [10,70,10],
@@ -38,6 +30,22 @@
 	},
 	"lines_type": {
 		"line":"solid"
+	},
+	"labels": {
+	  "TH" : "tholeiitic",
+	  "CA" : "calc-alkaline",
+	  "rh" : "rhyolite",
+	  "da" : "dacite",
+	  "an" : "andesite",
+	  "ba" : "basalt"
+	},
+	"angle": {
+		"TH" : 0,
+		"CA" : 0,
+		"rh" : 0,
+		"da" : 0,
+		"an" : 0,
+		"ba" : 0 
 	}
   
   }

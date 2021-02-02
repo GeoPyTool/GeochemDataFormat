@@ -1,7 +1,7 @@
 {
   "comment": "This is a sample JSON file for coords of GeoChem Plots. ",
-	"date": "2021-1-31",
-	"version": "0.02",
+	"date": "2021-2-2",
+	"version": "0.03",
   "author": "fred yu",
   "title": "TAS",
   "type": "xy",
@@ -103,23 +103,6 @@
     ]
   },
 
-  "labels": {
-    "F" : "Foidite",
-    "Ph": "Phonolite",
-    "Pc": "Pocrobasalt",
-    "U1": "Tephrite (ol < 10%) Basanite(ol > 10%)",
-    "U2": "Phonotephrite",
-    "U3": "Tephriphonolite",
-    "B" : "Basalt",
-    "S1": "Trachybasalt",
-    "S2": "Basaltic Trachyandesite",
-    "S3": "Trachyandesite",
-    "O1": "Basaltic Andesite",
-    "O2": "Andesite",
-    "O3": "Dacite",
-    "T": "Trachyte(q<20%),Trachydacite(q>20%)",
-    "R": "Rhyolite"
-  },
 
   "labels_coords": {
     "F":  [40, 12] ,
@@ -174,6 +157,42 @@
     "R":[[63, 0], [63, 7], [69, 8], [77.3, 0]],
     "Q" :[[77.3, 0], [69, 8], [71.8, 13.5], [85.9, 6.8], [87.5, 4.7]],
     "SNL/TUI":[[77.3, 0], [87.5, 4.7], [90, 4.7], [90, 0]]
-  }
+  },
+
+  "labels": {
+    "F" : "Foidite",
+    "Ph": "Phonolite",
+    "Pc": "Pocrobasalt",
+    "U1": "Tephrite (ol < 10%) Basanite(ol > 10%)",
+    "U2": "Phonotephrite",
+    "U3": "Tephriphonolite",
+    "B" : "Basalt",
+    "S1": "Trachybasalt",
+    "S2": "Basaltic Trachyandesite",
+    "S3": "Trachyandesite",
+    "O1": "Basaltic Andesite",
+    "O2": "Andesite",
+    "O3": "Dacite",
+    "T": "Trachyte(q<20%),Trachydacite(q>20%)",
+    "R": "Rhyolite"
+  },
+  
+	"angle": {
+    "F":0,
+    "Pc":0,
+    "U1":0,
+    "B":0,
+    "S1":0,
+    "U2":0,
+    "O1":0,
+    "S2":0,
+    "U3":0,
+    "O2":0,
+    "S3":0,
+    "Ph":0,
+    "O3":0,
+    "T":0,
+    "R":0
+	}
 
 }

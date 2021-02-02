@@ -18,9 +18,6 @@
     ]
   },
 
-  "labels": {
-    "F" : "Foidite"
-  },
 
   "labels_coords": {
     "F":  [40, 12] 
@@ -31,5 +28,11 @@
 	},
 	"polygons": {
 	"F": [[0,0,0],[0,1,0]]
+	},
+  "labels": {
+    "F" : "Foidite"
+  },
+	"angle": {
+		"F" : 0
 	}
 }

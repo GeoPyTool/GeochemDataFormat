@@ -1,7 +1,7 @@
 {
 	"comment": "This is a sample JSON file for coords of GeoChem Plots. ",
-	"date": "2021-1-31",
-	"version": "0.02",
+	"date": "2021-2-2",
+	"version": "0.03",
 	"author": "fred yu",
 	"title": "Ti/100-Zr-Y*3",
 	"type": "xyz",
@@ -41,12 +41,6 @@
 		]
 	},
 	
-	"labels": {
-		"D" : "Trondhjemite",
-		"C": "Tonalite",
-		"B": "Granodiorite",
-		"A": "Granite"
-	  },
 	
 	"labels_coords": {
 		"D" :  [40,40,20] ,
@@ -93,6 +87,18 @@
 			  [42.5,30,37.5],
 			  [48,24,28]
 			]
+	},
+	"labels": {
+		"D" : "Trondhjemite",
+		"C": "Tonalite",
+		"B": "Granodiorite",
+		"A": "Granite"
+	  },
+	"angle": {
+		"D" : 0,
+		"C" : 0,
+		"B" : 0,
+		"A" : 0
 	}
 }
 
