@@ -76,6 +76,8 @@ A simple Geochemical Data file format design.
 ```
 # Explanation
 
-`"classes"` gives the full name of the different polygons.
-`"labels"` uses names that are shown on the plot. If a diagram contains a lot of polygons (e.g., the TAS diagram), then it is advisable to use short labels instead of the full class names.
+`"classes"` gives the full name of the different polygons.  
+
+`"labels"` uses names that are shown on the plot. If a diagram contains a lot of polygons (e.g., the TAS diagram), then it is advisable to use short labels instead of the full class names.  
+
 `"labels"` specifies the coordinates of the labels (first three elements if `type=xyz`, or the first two elements if `type=xy`) as well as their angle of rotation (in degrees, last element in the location vectors).
