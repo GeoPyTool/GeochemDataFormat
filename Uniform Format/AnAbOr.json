@@ -1,6 +1,6 @@
 {
-    "date": "2021-02-01",
-    "version": "0.03",
+    "date": "2021-02-27",
+    "version": "0.04",
     "author": "Fred Yu, Pieter Vermeesch",
     "title": "AnAbOr",
     "type": "xyz",
@@ -23,9 +23,9 @@
 	]
     },
     "line_type":{
-		"1": "solid",
-		"2": "solid",
-		"3": "solid"
+	"1": "solid",
+	"2": "solid",
+	"3": "solid"
     },
     "polygons": {
 	"Tron":[
@@ -55,16 +55,22 @@
 	    [15,50,35]
 	]
     },
+    "label_coords": {
+	"Tron": [10,75,15],
+	"Tona": [40,50,10],
+	"Grano": [30,42.5,27.5],
+	"Grani": [15,25,60]
+    },
     "labels": {
-		"Trondhjemite": [10,75,15],
-		"Tonalite": [40,50,10],
-		"Granodiorite": [30,42.5,27.5],
-		"Granite": [15,25,60]
+	"Tron": "Trondhjemite",
+	"Tona": "Tonalite",
+	"Grano": "Granodiorite",
+	"Grani": "Granite"
     },
     "angle": {
-		"Trondhjemite": 0,
-		"Tonalite": 60,
-		"Granodiorite": 60,
-		"Granite": 0
+	"Tron": 0,
+	"Tona": 60,
+	"Grano": 60,
+	"Grani": 0
     }
 }
