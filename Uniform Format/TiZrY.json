@@ -79,10 +79,10 @@
 	]
     },
     "labels": {
-	"D" : "Trondhjemite",
-	"C": "Tonalite",
-	"B": "Granodiorite",
-	"A": "Granite"
+	"D" : "Within-plate basalts",
+	"C": "Calc-alkali basalts",
+	"B": "MORB, iland-arc tholeiites and calc-alkali basalts",
+	"A": "Island-arc tholeiites"
     },
     "label_coords": {
 	"D" :  [40,40,20] ,
