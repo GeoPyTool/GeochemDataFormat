@@ -10,7 +10,8 @@
     "lines": {
 	"line1": [ 
             [0.55, 20],
-            [3, 2]
+            [3, 2],
+            [5, 1]
 	],
 	"line2":[ 
             [0.1, 0.35],
@@ -33,7 +34,7 @@
 	"line1":"solid",
 	"line2":"solid",
 	"line3":"solid",
-	"line4":"solid",
+	"line4":"dashed",
 	"line5":"solid"
     },
     "polygons": {
