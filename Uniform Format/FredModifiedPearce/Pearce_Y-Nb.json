@@ -1,0 +1,70 @@
+{
+    "comment": "This is a sample JSON file for coords of GeoChem Plots. ",
+    "date": "2020-3-10",
+    "version": "0.05",
+    "author": "Fred Yu, Pieter Vermeesch",
+    "title": "Pearce Diagram Y-Nb",
+    "type": "xy",
+    "axis":["Y","Nb"],
+    "reference": " Reference: Pearce, J. A., Harris, N. B. W., and Tindle, A. G., 1984, Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks: Journal of Petrology, v. 25, no. 4, p. 956-983.  ",
+    "lines": {
+	"line1": [ 
+            [1, 2000],
+            [50, 10]
+	],
+	"line2":[ 
+            [40, 1],
+            [50, 10]
+	],
+	"line3":[
+            [50, 10],
+            [1000, 100]
+	],
+	"line4":[ 
+            [25, 25],
+            [1000, 400]
+	]
+    },
+    "line_type": {
+	"line1":"solid",
+	"line2":"solid",
+	"line3":"solid",
+	"line4":"dashed"
+    },
+    "polygons":{
+<<<<<<< Updated upstream
+	"WPG" :[[1, 2000],[25, 25],[1000, 400],[1000,2000],[1, 2000]],
+	"ORG" :[[1000,400],[25, 25],[50, 10],[1000, 100],[1000,400]],
+	"VAG" :[[40, 1],[50,10],[1000, 100],[1000,1],[40, 1]]
+    },
+    "label_coords": {
+	"VAG": [0.5,1.5],
+	"WPG": [2,2],
+	"ORG": [2.2,0.5]
+    },
+    "labels": {
+	"VAG": "VAG+syn-COLG",
+	"WPG": "WPG",
+	"ORG": "ORG"
+=======
+	"WPG" :[[1, 2000], [25, 25],[1000, 400],[1000,2000]],
+	"ORG" :[[1000,400],[25, 25], [50, 10], [1000, 100]],
+	"VAG+\n syn-COLG" :[[40, 1],[50,10], [1000, 100],[1000,1]]
+    },
+    "label_coords": {
+    "VAG+\n syn-COLG": [10,10],
+	"WPG": [50, 400],
+	"ORG": [200, 10]
+    },
+    "labels": {
+    "VAG+\n syn-COLG" : "VAG+\n syn-COLG",
+	"WPG":"WPG",
+	"ORG":"ORG"
+>>>>>>> Stashed changes
+    },
+    "angle": {
+	"VAG" : 0,
+	"WPG" : 0,
+	"ORG" : 0
+    }
+}
