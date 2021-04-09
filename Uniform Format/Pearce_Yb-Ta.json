@@ -5,6 +5,7 @@
     "author": "Fred Yu, Pieter Vermeesch",
     "title": "Pearce Diagram Yb-Ta",
     "type": "xy",
+    "log": "true",
     "axis":["Yb","Ta"],
     "reference": " Reference: Pearce, J. A., Harris, N. B. W., and Tindle, A. G., 1984, Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks: Journal of Petrology, v. 25, no. 4, p. 956-983.  ",
     "lines": {
