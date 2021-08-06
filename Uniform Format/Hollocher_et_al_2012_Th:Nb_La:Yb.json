@@ -6,40 +6,41 @@
     "title": "Th/Nb_La/Yb",
     "type": "xy",
     "log": "true",
-    "axis":["La'/Yb ppm","Th/Nb ppm"],
-    "reference": "Hollocher_et_al_2012",
+    "axis":["La'/Yb ppm","Th/Nb ppm"],    
+    "reference": "Hollocher et al., 2012 Discriminants for MORB, ocean island, and a variety of arc-type basalts",
+   
     "line_coords": {
         "Oceanic arcs": 
-        [
-            [0.4,0.095],
-            [1.9,0.113],
-            [5.5,5]
-        ],
-    "Continental arcs":  
-        [
-            [5.5,5],
-            [1.9,0.113],
-            [7.15,0.13],
-            [20,5]
-        ],
-    "Alkaline arcs":  
-        [
-            [20,5],
-            [7.15,0.13],
-            [80,0.4]
-        ],
-    "MORB": 
-        [
-            [0.4,0.095],
-            [7.15,0.13],
-            [1.5,0.02]
-        ],
-    "Oceanic islands":  
-        [
-            [1.5,0.02],
-            [7.15,0.13],
-            [80,0.4]
-        ] 
+            [
+                [0.4,0.095],
+                [1.9,0.113],
+                [5.5,5]
+            ],
+        "Continental arcs":  
+            [
+                [5.5,5],
+                [1.9,0.113],
+                [7.15,0.13],
+                [20,5]
+            ],
+        "Alkaline arcs":  
+            [
+                [20,5],
+                [7.15,0.13],
+                [80,0.4]
+            ],
+        "MORB": 
+            [
+                [0.4,0.095],
+                [7.15,0.13],
+                [1.5,0.02]
+            ],
+        "Oceanic islands":  
+            [
+                [1.5,0.02],
+                [7.15,0.13],
+                [80,0.4]
+            ] 
         },
     "label_coords": {
         "Oceanic arcs":  [1, 1] ,
