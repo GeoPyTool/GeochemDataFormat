@@ -8,7 +8,7 @@
     "log": "true",
     "axis":["Y ppm","Cr ppm"],    
     "reference": "Dilek, Y., Furnes, H., and Shallo, M., 2007, Suprasubduction zone ophiolite formation along the periphery of Mesozoic Gondwana. Gondwana Research, v. 11, p. 453-475.",
-    "line_coords": {
+    "lines": {
         "Boninites": 
             [
                 [3.9,2000],

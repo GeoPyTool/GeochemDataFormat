@@ -9,7 +9,7 @@
     "axis":["SiO2","K2O+Na2O"],//这里说的是两个坐标轴，和前面的xy对应，第一个是横轴，第二个是纵轴，如果xyz的图则是三个分别对应了xyz
     "reference": "Maitre, R. W. L., Streckeisen, A., Zanettin, B., Bas, M. J. L., Bonin, B., and Bateman, P., 2004, Igneous Rocks: A Classification and Glossary of Terms: Cambridge University Press, v. -1, no. 70, p. 93–120.",
     //上面这个 reference 就是说本图解的文献出处
-    "line_coords": {// 这个就是线条的坐标
+    "lines": {// 这个就是线条的坐标
 	"F": [//这是某一个线条的名称
 	    [41, 0],
 	    [41, 3],
