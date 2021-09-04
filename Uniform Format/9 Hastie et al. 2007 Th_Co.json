@@ -21,13 +21,13 @@
             ],
         "High-K and Shoshonitic": 
             [
-                [70,0.245],
+                [70,2.2],
                 [0,9]
             ],
         "Calc-Alkaline": 
             [
                 
-                [70,2.2],
+                [70,0.245],
                 [0,1.35]
             ],
         "Island Arc Tholeiite": 
